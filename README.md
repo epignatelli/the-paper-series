@@ -14,7 +14,7 @@ You will also find some papers from other subject areas, though still related to
     <th>Status</th>
   </tr>
   <tr>
-    <td><i>Oh, J., Hessel, M., Czarnecki, W.M., Xu, Z., van Hasselt, H.P., Singh, S.  and Silver, D., 2020. Discovering reinforcement learning algorithms.  Advances in Neural Information Processing Systems, 33.</i></td>
+    <td>Oh, J., Hessel, M., Czarnecki, W.M., Xu, Z., van Hasselt, H.P., Singh, S.  and Silver, D., 2020. <i>Discovering reinforcement learning algorithms.</i>  Advances in Neural Information Processing Systems, 33.</td>
     <td>NeurIPS</td>
     <td>2020</td>
     <td><a href=https://github.com/epignatelli/discovering-reinforcement-learning-algorithms>link</a></td>
