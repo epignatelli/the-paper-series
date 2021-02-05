@@ -11,7 +11,7 @@ You will also find some papers from other subject areas, though still related to
     <th>Publisher</th>
     <th>Year</th>
     <th>Impl</th>
-    <th>Document</th>
+    <th>Doc</th>
     <th>Status</th>
   </tr>
   
