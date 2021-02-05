@@ -1,8 +1,11 @@
 # The paper series
 
 The paper series is a collection of unofficial implementations of reknown Deep Reinforcement Algorithms.   
-For the official implementations, please refer to the original papers to check if one exists.   
 You will also find some papers from other subject areas, though still related to Machine Learning.   
+Papers are sorted by Year, then first author last name, then title.   
+For the official implementations, please refer to the original papers to check if one exists.   
+
+
 
 
 <table>
@@ -14,6 +17,17 @@ You will also find some papers from other subject areas, though still related to
     <th>Doc</th>
     <th>Status</th>
   </tr>
+  
+<!-- Google Images -->
+  <tr>
+  <td>Nister, D. and Stewenius, H., 2006, June. <i>Scalable recognition with a vocabulary tree</i>. In 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06) (Vol. 2, pp. 2161-2168). Ieee.</td>
+    <td>CVPR</td>
+    <td>2006</td>
+    <td><a href=https://github.com/epignatelli/scalable-recognition-with-a-vocabulary-tree>jax</a></td>
+    <td><a href=https://www-inst.eecs.berkeley.edu//~cs294-6/fa06/papers/nister_stewenius_cvpr2006.pdf>pdf</a></td>
+    <td><img src=https://www.repostatus.org/badges/latest/active.svg></td>
+  </tr>
+    
   
 <!-- DQN -->
   <tr>
