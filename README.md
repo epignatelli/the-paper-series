@@ -10,7 +10,7 @@ You will also find some papers from other subject areas, though still related to
     <th>Paper</th>
     <th>Publisher</th>
     <th>Year</th>
-    <th>Implementation</th>
+    <th>Impl</th>
     <th>Document</th>
     <th>Status</th>
   </tr>
