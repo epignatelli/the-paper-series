@@ -2,7 +2,7 @@
 
 The paper series is a collection of unofficial implementations of reknown Deep Reinforcement Algorithms.   
 You will also find some papers from other subject areas, though still related to Machine Learning.   
-Papers are sorted by Year, then first author last name, then title.   
+Papers are sorted by Year, then first author's last name, then title.   
 For the official implementations, please refer to the original papers to check if one exists.   
 
 
