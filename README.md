@@ -1,7 +1,8 @@
 # The paper series
 
-The paper series is a collection of implementations of reknown Deep Reinforcement Algorithms.
-You will also find some papers from other subject areas, though still related to Machine Learning.
+The paper series is a collection of unofficial implementations of reknown Deep Reinforcement Algorithms.   
+For the official implementations, please refer to the original papers to check if one exists.   
+You will also find some papers from other subject areas, though still related to Machine Learning.   
 
 
 <table>
